@@ -23,7 +23,7 @@ mongoose.connect(process.env.FitnessTrackMongoAtlas, { useNewUrlParser: true });
 // Connect to MongoDB
 // mongoose
 //   .connect(
-//     'mongodb+srv://andrewsmith593:Thundercat12!@cluster0.alzhj.mongodb.net/fitnesstrackerdb?retryWrites=true&w=majority',
+//     'mongodb+srv://andrewsmith593:password1990@cluster0.alzhj.mongodb.net/fitnesstrackerdb?retryWrites=true&w=majority',
 //     { useNewUrlParser: true }
 //   )
 //   .then(() => console.log("MongoDB successfully connected"))
